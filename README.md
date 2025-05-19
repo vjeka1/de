@@ -1,7 +1,7 @@
 - **ETL_project_clean.tar.gz** - архив с ETL-проектом (Docker Compose, NiFi, PostgreSQL, MinIO)
-- **de_sber_ddl.sql** - SQL-скрипты для создания структуры данных
-- **de_sber_dml.sql** - SQL-скрипты для манипуляции данными
-- **de_sber_python_sql.ipynb** - Jupyter Notebook с Python-решением
+- **de_ddl.sql** - SQL-скрипты для создания структуры данных
+- **de_dml.sql** - SQL-скрипты для манипуляции данными
+- **de_python_sql.ipynb** - Jupyter Notebook с Python-решением
 
 # Инструкция по проверке ETL-проекта
 
